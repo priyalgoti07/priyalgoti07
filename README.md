@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on JavaScript & ReactJS
-- 🌱 I’m currently learning JavaScript & ReactJS
+- 🌱 I’m currently learning Next.js
 - 👯 I’m looking to collaborate on ReactJS
 - 🤔 I’m looking for help with JavaScript $ ReactJS
 - 💬 Ask me about ReactJS
